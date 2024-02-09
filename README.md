@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pixel-Bat
-- 👀 I’m interested in Game Developement/3D Modeling
+- 👀 I’m interested in Game Developement/Robotics
 - 🌱 I’m currently learning C++/C# & Java with WPIlib
 
 <!---
