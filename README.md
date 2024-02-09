@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pixel-Bat
 - 👀 I’m interested in Game Developement/3D Modeling
-- 🌱 I’m currently learning C++/C#
+- 🌱 I’m currently learning C++/C# & Java with WPIlib
 
 <!---
 Pixel-Bat/Pixel-Bat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
